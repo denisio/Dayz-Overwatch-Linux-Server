@@ -1,0 +1,1 @@
+["PASS",false,"1",[274,[13540.5,4821.74,0.00126761]],[["MeleeCrowbar","ItemFlashlight","ItemMap","ItemGPS"],["ItemPainkiller","ItemSodaPepsi","ItemSodaCoke","FoodbeefCooked","ItemBandage"],""],["DZ_Patrol_Pack_EP1",[[],[]],[[],[]]],[0,5,5],"Survivor2_DZ",0.96]
