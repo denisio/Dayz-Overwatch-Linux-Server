@@ -11,7 +11,7 @@ use constant PATH      => $ENV{'PWD'}.'/'; # Set your dayz server dir
 use constant PIDFILE   => PATH.'2302.pid';
 use constant CACHE_DIR => PATH.'cache/players';
 
-unless (-f PATH.'server') {
+unless (-f PATH.'overwatch') {
     print STDERR "Can't found server binary!\n";
     exit;
 }
